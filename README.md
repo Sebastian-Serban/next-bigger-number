@@ -13,4 +13,8 @@
 111 ==&gt; -1
 531 ==&gt; -1
 </code></pre>
-</div>
+
+Run the main.py file.
+```bash
+python main.py
+```
